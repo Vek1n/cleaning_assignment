@@ -10,7 +10,7 @@ Finally a Fast Fourier Transform (FFT) was applied to some of these signals prod
 These signals were used to estimate variables of the feature vector for each pattern:  
 '-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
 
-And has one more parameter that tells us if the variable is a measure of the standard deviation (`std()`) or the mean (`mean()`)
+And has one more parameter that indicates if is a measure of the standard deviation (`std()`) or the mean (`mean()`)
 
 The variable called `activities` indicates the action of the subjects while the data was collected
 
