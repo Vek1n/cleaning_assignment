@@ -15,10 +15,15 @@ And has one more parameter that indicates if is a measure of the standard deviat
 The variable called `activities` indicates the action of the subjects while the data was collected
 
 walking - the subject was only walking 
+
 walking_up - the subject was walking upstairs
+
 walking_down - the subject was walking downstairs
+
 sitting - the subject was only sitting
+
 standing - the subject was only standing
+
 laying - the subject was only laying
 
 The variable `subjects` indicates the subject referred in the measures, and has values from 1 through 30
